@@ -19,7 +19,7 @@ Projeto simples de sistema bancário feito em Python para praticar lógica de pr
 Este projeto foi desenvolvido para praticar conceitos básicos de programação, como:
 
 - dicionários
-- estruturas de repetição
+- estrutura de repetição
 - condicionais
 - organização de lógica
 
